@@ -2,13 +2,11 @@
 layout: post
 title: MeetUp Season II KelasMobile Malang
 ---
+![Poster](http://malang.dilo.id/images/Poster_Event_Meeting.jpg)
 
-(http://malang.dilo.id/images/Poster_Event_Meeting.jpg)
+Meetup KelasMobile season II nih, untuk Rekan - rekan komunitas dan para Developer Mobile Applications.
 
-Workshop & Meetup Komunitas Mobile Apps Development Kota Malang
-{KELAS MOBILE}
-
-Meetup KelasMobile season II nih, untuk Rekan - rekan komunitas dan para Developer Mobile Applications bisa gabungan acara yang akan dilaksanakan pada :
+Acara akan dilaksanakan pada :
 
 Hari : Rabu, 23 Maret 2016
 
@@ -26,6 +24,4 @@ Apa yang dibahas?
 
 - Ngobrol santai
 
-Buruan Gabung ... Konfirmasi :
-
-https://www.facebook.com/events/1071786136197048/
+Buruan Gabung, Konfirmasi : [Daftar Disini](https://www.facebook.com/events/1071786136197048/)
